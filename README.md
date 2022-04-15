@@ -14,9 +14,9 @@ Using Fourier Transform  which is a processing tool used to decompose an image i
 Trained the image data with Random Forest, SVM and Logistic Reression with Hyperparameter tuning using GridSearchCV
 
 # Accuracy
-SVM : 0.84
-Random Forest : 68
-Logistic Regression : 0.84
+- SVM : 0.84
+- Random Forest : 68
+- Logistic Regression : 0.84
 
 # CONCLUSION
 
