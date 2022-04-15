@@ -24,7 +24,7 @@ Logistic Regression : 0.84
 
 From the confusion matrix diagram, the diagonal represents on how many samples our model predicted correctly.
 
-The model has correctly predicted all samples of maria_sharapova and virat_kohli.
-For the image of lionel_messi, one instance incorrectly predicted as maria_sharapova and other as serena_williams
-For the image of roger_federer, 2 instances incorrectly predicted as maria_sharapova and other 2 as serena_williams
-For the image of serena_williams, one instance incorrectly predicted as roger_federer
+- The model has correctly predicted all samples of maria_sharapova and virat_kohli.
+- For the image of lionel_messi, one instance incorrectly predicted as maria_sharapova and other as serena_williams
+- For the image of roger_federer, 2 instances incorrectly predicted as maria_sharapova and other 2 as serena_williams
+- For the image of serena_williams, one instance incorrectly predicted as roger_federer
